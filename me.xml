@@ -14,3 +14,30 @@
            <department>IT specalsit</department>
       </education>
 </user>
+
+</gm>
+    <models>
+        <model>
+           <name>malibu<name>
+        <colours>
+           <colour>black<colour>
+           <colour>white<colour>
+           <colour>grey<colour>
+           <price>30000<price>
+        <model>
+        <model>
+           <name>jentra<name>
+        <colours>
+           <colour>white<colour>
+           <colour>black<colour>
+           <price>15000<price>
+        <model>
+        <model>
+           <name>cobolt<name>
+        <colours>
+           <colour>grey<colour>
+           <colour>black<colour>
+           <price>10000<price>
+        <model>
+    <models>
+           
