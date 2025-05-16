@@ -1,15 +1,16 @@
-<odam>
-<ism>Mahmud</ism>
-<sharif>Erkinxojayev</shari>
-<nomi>caltech<nomi>
-<fakultet>Applied Mathematics</fakultet>
-</odam>
-</education>
-</user>
-<odam>
-<ism>Alisher</ism>
-<sharif>Axmadjonov</sharif>
-<nomi>webster</nomi>
-<fakultet>business management</fakultet>
-</education>
+<users>
+    <user>
+      <name>Mahmud</name>
+      <surename>Erkinxojayev</surename>
+      <education> type="university"<education>
+           <name>IDU<name>
+           <department>IT specalsit</department>
+    </user>
+<user>
+      <name>Alisher</name>
+      <surename>Axmadjonov</surename>
+      <education> type="university"<education>
+           <name>IDU<name>
+           <department>IT specalsit</department>
+      </education>
 </user>
